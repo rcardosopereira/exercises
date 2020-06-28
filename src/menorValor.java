@@ -36,7 +36,7 @@ public class menorValor {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner (System.in);
-		int valor[] = new int[5];
+		int valor[] = new int[10];
 		
 			System.out.print("Digite  "+valor.length+" valore(s): ");
 			for(int i = 0; i < valor.length; i++){
