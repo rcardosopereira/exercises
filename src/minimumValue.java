@@ -2,7 +2,8 @@
  * Rafael C. Pereira
  * Data: 20/Jun/2020
  * Exercise:
- * Ask the user 10 numbers and insert them into an array of integer and show the lowest value inserted by user.
+ * Ask the user 10 numbers and insert them into an array of integer and 
+ * show the lowest value inserted by user.
  * 
  */
 
