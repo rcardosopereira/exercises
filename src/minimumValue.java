@@ -14,7 +14,7 @@ public class minimumValue {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner (System.in);
-		int value[] = new int[5];
+		int value[] = new int[10];
 
 		for(int i = 0; i < value.length; i++){
 			System.out.print("Enter the " +(i+1)+"º value: ");
